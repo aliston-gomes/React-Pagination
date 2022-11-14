@@ -1,1 +1,1 @@
-# Trial
+# ReactPagination.
